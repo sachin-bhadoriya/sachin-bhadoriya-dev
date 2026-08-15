@@ -37,6 +37,7 @@ const Contact = () => {
           <Link><img src="https://img.icons8.com/?size=100&id=DUEq8l5qTqBE&format=png&color=000000" alt="Whatsapp" loading='lazy' /></Link>
           <Link><img src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" alt="Linkedin" loading='lazy' /></Link>
           <Link><img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="Github" loading='lazy' /></Link>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14012.938752393206!2d77.29572834712268!3d28.592735451881488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce48b866af1ef%3A0x58913d62225c2c0!2sNew%20Ashok%20Nagar%2C%20Delhi!5e0!3m2!1sen!2sin!4v1786782639138!5m2!1sen!2sin" style="width: 100%; height: 100%; border-radius: 10px; overflow: hidden; " allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
         </div>
         <form data-aos="zoom-in" onSubmit={handleFormSubmit}>
           <label htmlFor="name">Name</label>
