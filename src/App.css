@@ -8,6 +8,7 @@ body {
   scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
 }
 
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
