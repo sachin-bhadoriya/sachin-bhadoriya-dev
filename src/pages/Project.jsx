@@ -71,7 +71,7 @@ const projectsData = [
 
 const Projects = () => {
   return (
-    <section data-aos="fade" className='p-projects-m-c container'>
+    <section data-aos="fade" className='p-projects-m-c container' id='projects'>
       <h2>PROJECTS</h2>
       <div className="projects-container">
         {projectsData.map((project, index) => (

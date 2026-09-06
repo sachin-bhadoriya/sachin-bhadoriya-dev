@@ -17,7 +17,7 @@ const BlogsList = () => {
     blog.category.toLowerCase().includes(searchValue.toLowerCase())
   );
   return (
-    <section className='p-blog-list-m-c container'>
+    <section className='p-blog-list-m-c container' id='blogs'>
       <h2>BLOGS</h2>
       <div className="blog-description-c">
         <p>Thoughts, tutorials and guides on web development, React and more.</p>

@@ -28,7 +28,7 @@ const skill = {
 
 const Skills = () => {
   return (
-    <section data-aos="fade" className='p-about-m-c container'>
+    <section data-aos="fade" className='p-about-m-c container' id='skills'>
       <h2>SKILLS</h2>
       <article className='p-skills-article-c'>
         <h4>Frontend Technologies</h4>

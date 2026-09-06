@@ -2,7 +2,7 @@ import './styles/about.scss'
 
 const About = () => {
   return (
-    <section data-aos="fade" className='p-about-m-c container'>
+    <section data-aos="fade" className='p-about-m-c container' id='about'>
       <h2>ABOUT ME</h2>
       <article className='p-about-article-c'>
         <p>I’m a passionate Frontend Developer focused on creating smooth, responsive, and high-performance web experiences. I enjoy turning ideas into interactive digital products with clean code and modern design principles.

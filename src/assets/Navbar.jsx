@@ -20,31 +20,31 @@ const Navbar = () => {
                     }`}
             >
                 <li>
-                    <Link onClick={() => setMenuOpen(false)} to="/" className={pathname === "/" ? "active-link" : ""}>Home</Link>
+                    <Link onClick={() => setMenuOpen(false)} to="#home" className={pathname === "#home" ? "active-link" : ""}>Home</Link>
                 </li>
 
                 <li>
-                    <Link onClick={() => setMenuOpen(false)} to="/the-story" className={pathname === "/the-story" ? "active-link" : ""}>About</Link>
+                    <Link onClick={() => setMenuOpen(false)} to="#about" className={pathname === "#about" ? "active-link" : ""}>About</Link>
                 </li>
 
                 <li>
-                    <Link onClick={() => setMenuOpen(false)} to="/my-toolkit" className={pathname === "/my-toolkit" ? "active-link" : ""}>Skills</Link>
+                    <Link onClick={() => setMenuOpen(false)} to="#skills" className={pathname === "#skills" ? "active-link" : ""}>Skills</Link>
                 </li>
 
                 <li>
-                    <Link onClick={() => setMenuOpen(false)} to="/journey" className={pathname === "/journey" ? "active-link" : ""}>Experience</Link>
+                    <Link onClick={() => setMenuOpen(false)} to="#experience" className={pathname === "#experience" ? "active-link" : ""}>Experience</Link>
                 </li>
 
                 <li>
-                    <Link onClick={() => setMenuOpen(false)} to="/crafted-projects" className={pathname === "/crafted-projects" ? "active-link" : ""}>Projects</Link>
+                    <Link onClick={() => setMenuOpen(false)} to="#projects" className={pathname === "#projects" ? "active-link" : ""}>Projects</Link>
                 </li>
 
                 <li>
-                    <Link onClick={() => setMenuOpen(false)} to="/blog" className={pathname === "/blog" ? "active-link" : ""}>Blogs</Link>
+                    <Link onClick={() => setMenuOpen(false)} to="#blogs" className={pathname === "#blogs" ? "active-link" : ""}>Blogs</Link>
                 </li>
 
                 <li>
-                    <Link onClick={() => setMenuOpen(false)} to="/lets-connect" className={pathname === "/lets-connect" ? "active-link" : ""}>Contact</Link>
+                    <Link onClick={() => setMenuOpen(false)} to="#contact" className={pathname === "#contact" ? "active-link" : ""}>Contact</Link>
                 </li>
             </ul>
 
