@@ -86,7 +86,7 @@ const Contact = () => {
       data.append("_captcha", "false");
 
       const response = await fetch(
-        "https://formsubmit.co/ajax/e41550609@gmail.com",
+        "https://formsubmit.co/ajax/bhadoriyasachin33@gmail.com",
         {
           method: "POST",
           body: data,
