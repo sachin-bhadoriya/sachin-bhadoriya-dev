@@ -26,7 +26,7 @@ const ProjectCard = ({
 
                 <div className="project-links">
                     <a href={liveLink} target="_blank" rel="noreferrer" className="btn live-btn">
-                        Live Demo
+                        Demo
                     </a>
 
                     <a href={githubLink} target="_blank" rel="noreferrer" className="btn github-btn">
