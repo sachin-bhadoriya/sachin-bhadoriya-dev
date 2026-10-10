@@ -3,7 +3,7 @@ import './styles/experience.scss';
 
 const experienceData = [
 {
-  role: "HTML Developer Trainee",
+  role: "HTML Developer",
   company: "Alliance Web Solution Pvt. Ltd. (India Internets)",
   duration: "June 2026 - Present",
   description: "Working on Digital Oye's product website, multiple dashboards, and client websites using ReactJS and modern frontend technologies. Building responsive and reusable UI components, integrating REST APIs, implementing designs, fixing bugs, and optimizing applications for performance and usability.",
