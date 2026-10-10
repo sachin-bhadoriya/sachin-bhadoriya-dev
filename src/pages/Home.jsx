@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <>
       <section data-aos="fade" className='p-home-m-c container' id='home'>
-        <img data-aos="zoom-in" src="https://res.cloudinary.com/dm0rfcoxl/image/upload/v1779808589/sachin-illustration_ibc3od.png" alt="Illustration Image" fetchPriority='high' />
+        <img data-aos="zoom-in" src="https://res.cloudinary.com/dm0rfcoxl/image/upload/v1791653979/sachin-bhadoriya-pic_qfvr6g.png" alt="Illustration Image" fetchPriority='high' />
         <div className="p-home-d-c">
           <h6>Hello, I'm</h6>
           <h2>Sachin Bhadoriya</h2>
