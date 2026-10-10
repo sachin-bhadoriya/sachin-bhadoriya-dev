@@ -20,7 +20,7 @@ const Home = () => {
           <p className='title'>Passionate about building web apps with great UI and real-world functionality. I blend design with code to create impactful digital experiences.</p>
           <div className="p-home-btn-c">
             <Link to="#projects"><button data-aos="zoom-in">View Projects</button></Link>
-            <Link to="/Sachin_Bhadoriya_Frontend_Developer.pdf" download="Sachin_Bhadoriya_Frontend_Developer"><button data-aos="zoom-in">Download Resume</button></Link>
+            <Link to="/Sachin_Bhadoriya_Frontend_Resume.pdf" download="Sachin_Bhadoriya_Frontend_Developer"><button data-aos="zoom-in">Download Resume</button></Link>
           </div>
         </div>
       </section>
